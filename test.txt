@@ -2,5 +2,9 @@ Test
 #master
 
 Creating a new branch is quick.
-
+Master
+<<<<<<< HEAD
 Dev
+=======
+Master
+>>>>>>> master
